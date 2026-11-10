@@ -13,10 +13,9 @@ A beginner-friendly, hands-on workshop for the AI HIDSI Fellowship. Attendees sk
 | 2 | Brainstorm an app idea with AI |
 | 3 | Sketch your app, label the buttons, and have AI build it |
 | 4 | Make it better with clearer prompts |
-| 5 | Write a Markdown plan file and have AI build from it |
-| 6 | Compare ChatGPT, Gemini, and Claude and check their work |
-| 7 | Download your app and publish it with GitHub Pages |
-| 8 | Wrap-up: habits for using AI well |
+| 5 | Compare ChatGPT, Gemini, and Claude and check their work |
+| 6 | Download your app and publish it with GitHub Pages |
+| 7 | Wrap-up: habits for using AI well |
 
 ## Before you come
 
